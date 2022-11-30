@@ -1,0 +1,9 @@
+geopandas
+sqlite3
+matplotlib
+pandas
+ipyleaflet
+json
+ipywidgets
+itertools
+numpy
