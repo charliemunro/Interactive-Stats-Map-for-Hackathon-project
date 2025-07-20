@@ -2,8 +2,9 @@
 
 An interactive Jupyter Notebook-based dashboard allowing users to explore European energy statistics by country via an IPyLeaflet map and dynamic plots.
 
-[![Launch on Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/charliemunro/Interactive-Stats-Map-for-Hackathon-project/HEAD?filepath=translator.ipynb)
-[![Launch as Voila App](https://img.shields.io/badge/Launch%20as-Voila%20App-green)](https://mybinder.org/v2/gh/charliemunro/Interactive-Stats-Map-for-Hackathon-project/HEAD?urlpath=voila%2Frender%2Ftranslator.ipynb)
+[![Launch on Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/charliemunro/Interactive-Stats-Map-for-Hackathon-project/HEAD?filepath=interactive_map.ipynb)
+
+[![Launch as Voilà App](https://img.shields.io/badge/Launch%20as-Voilà%20App-blue)](https://mybinder.org/v2/gh/charliemunro/Interactive-Stats-Map-for-Hackathon-project/HEAD?urlpath=voila%2Frender%2Finteractive_map.ipynb)
 
 ---
 
